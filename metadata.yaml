@@ -32,6 +32,8 @@ creator:
     - http://en.wikipedia.org/wiki/Zachris_Topelius
     - http://fi.wikipedia.org/wiki/Zacharias_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36278#V-lsk-rin-kertomuksia-2Kapinassa-omaa-onneaan-vastaan.-Noita-akka.-Mainiemen-linna.
 gutenberg_issued: '2011-05-30'
 gutenberg_type: Text
 identifiers:
